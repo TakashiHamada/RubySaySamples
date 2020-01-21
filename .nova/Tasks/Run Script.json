@@ -1,0 +1,7 @@
+{
+  "script" : "ruby main.rb",
+  "actions" : [
+    "run"
+  ],
+  "identifier" : "3BDBA6C8-60EE-4A44-95BF-F6F84A23D8C5"
+}
